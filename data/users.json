@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "firstName": "Ali",
+        "lastName": "Valiyev",
+        "course": 2,
+        "faculty": "Dasturiy injiniring"
+    },
+    {
+        "id": 2,
+        "firstName": "Vali",
+        "lastName": "Aliyev",
+        "course": 3,
+        "faculty": "Axborot xavfsizligi"
+    },
+    {
+        "id": 3,
+        "firstName": "Dilshod",
+        "lastName": "Karimov",
+        "course": 1,
+        "faculty": "Kompyuter injiniringi"
+    },
+    {
+        "id": 4,
+        "firstName": "Madina",
+        "lastName": "Tursunova",
+        "course": 4,
+        "faculty": "Matematika va informatika"
+    },
+    {
+        "id": 5,
+        "firstName": "Diyor",
+        "lastName": "Abduqodirov",
+        "course": 2,
+        "faculty": "Dasturiy injiniring"
+    },
+    {
+        "id": 6,
+        "firstName": "Shahzoda",
+        "lastName": "Rustamova",
+        "course": 3,
+        "faculty": "Axborot texnologiyalari"
+    },
+    {
+        "id": 7,
+        "firstName": "Javohir",
+        "lastName": "Nematov",
+        "course": 1,
+        "faculty": "Telekommunikatsiya"
+    },
+    {
+        "id": 8,
+        "firstName": "Dilnoza",
+        "lastName": "Rashidova",
+        "course": 4,
+        "faculty": "Dasturiy injiniring"
+    },
+    {
+        "id": 9,
+        "firstName": "Sardor",
+        "lastName": "Toshpulatov",
+        "course": 2,
+        "faculty": "Axborot xavfsizligi"
+    },
+    {
+        "id": 10,
+        "firstName": "Shahzod",
+        "lastName": "Umarov",
+        "course": 3,
+        "faculty": "Kompyuter injiniringi"
+    }
+]
